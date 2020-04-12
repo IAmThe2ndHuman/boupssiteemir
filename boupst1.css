@@ -74,8 +74,8 @@ h1 {
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: auto;
-  width: 80%;
-  padding: 140px;
+  width: 55%;
+  padding: 14px;
 }
 
 /* Clear floats after image containers */
