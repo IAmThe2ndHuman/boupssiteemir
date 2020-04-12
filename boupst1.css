@@ -30,7 +30,7 @@
   overflow: hidden;
 }
 
-/*  Ä°KÄ°NCÄ° TOOLBAR  */
+/*  Ã„Â°KÃ„Â°NCÃ„Â° TOOLBAR  */
 
 
 .topnav a {
@@ -55,11 +55,11 @@
 }
 
 html {
-cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='43' height='52' viewport='0 0 100 100' style='fill:black;font-size:26px;'><text y='50%'>🅱️</text></svg>") 16 0,auto; /*emojicursor.app*/
+cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='43' height='52' viewport='0 0 100 100' style='fill:black;font-size:26px;'><text y='50%'>ðŸ…±ï¸</text></svg>") 16 0,auto; /*emojicursor.app*/
 }
 
 a {
-cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='43' height='52' viewport='0 0 100 100' style='fill:black;font-size:26px;'><text y='50%'>👌</text></svg>") 16 0,auto; /*emojicursor.app*/
+cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='43' height='52' viewport='0 0 100 100' style='fill:black;font-size:26px;'><text y='50%'>ðŸ‘Œ</text></svg>") 16 0,auto; /*emojicursor.app*/
 }
 
 body {
