@@ -1,0 +1,101 @@
+header {
+	
+	text-align:left
+}
+
+body {
+	background-color: #026260}
+
+p {
+	text-align: right
+}
+
+p1 {
+	text-align: left
+}
+
+h2 {
+	text-align: center
+}
+
+footer {
+	background-color: #24C062
+}
+
+p3 {
+	text-align: center
+}
+
+cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>bruh</text></svg>") 16 0,auto; /emojicursor.app/
+
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/*  İKİNCİ TOOLBAR  */
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+p {
+	color: aliceblue
+}
+
+p {
+	color: aliceblue
+}
+
+html {
+cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='43' height='52' viewport='0 0 100 100' style='fill:black;font-size:26px;'><text y='50%'>🅱️</text></svg>") 16 0,auto; /*emojicursor.app*/
+}
+
+a {
+cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='43' height='52' viewport='0 0 100 100' style='fill:black;font-size:26px;'><text y='50%'>👌</text></svg>") 16 0,auto; /*emojicursor.app*/
+}
